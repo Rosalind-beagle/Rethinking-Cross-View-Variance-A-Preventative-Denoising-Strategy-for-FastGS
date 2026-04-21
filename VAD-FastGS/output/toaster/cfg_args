@@ -1,0 +1,1 @@
+Namespace(sh_degree=3, source_path='D:\\DSA Semester2\\DL\\FastGS\\datasets\\shinyblender\\toaster', model_path='./output/toaster', images='images', resolution=-1, white_background=False, data_device='cuda', eval=True)
