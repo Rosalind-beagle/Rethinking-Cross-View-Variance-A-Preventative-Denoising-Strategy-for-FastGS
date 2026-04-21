@@ -5,10 +5,6 @@ This repository contains the official implementation for the DSAI 5207 final pro
 
 Building upon the ultra-fast training framework of FastGS, we introduce a **Variance-Aware Densification (VAD)** strategy. By integrating Welford's online algorithm, our method tracks the cross-view L1 loss variance in real-time during the forward pass with minimal memory overhead. It uses this variance as a precise noise indicator to intercept and prevent the generation of multi-view inconsistent geometric noise ("floaters") at their source.
 
-**Authors:**
-* Wei Zixian (25108555G)
-* Cheng Yiyang (25048768G)
-
 ---
 
 ## 📂 Repository Structure
